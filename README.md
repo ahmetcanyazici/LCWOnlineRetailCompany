@@ -13,4 +13,4 @@ The Order Managemenet API, builded and  used for creating, changing, deleting an
 - Used swagger for document api.
 
 
-![alt text](https://github.com/ahmetcanyazici/LCWOnlineRetailCompany/blob/master/get.PNG)
+![alt text](https://github.com/ahmetcanyazici/LCWOnlineRetailCompany/blob/master/api.PNG)
