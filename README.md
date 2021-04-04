@@ -11,3 +11,6 @@ The Order Managemenet API, builded and  used for creating, changing, deleting an
 - İmplemented the end to end logging mechanism you can see "Nlog.config" file.
 
 - Used swagger for document api.
+
+
+![alt text](https://github.com/ahmetcanyazici/LCWOnlineRetailCompany/blob/master/get.PNG)
